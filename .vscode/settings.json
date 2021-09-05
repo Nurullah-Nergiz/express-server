@@ -1,0 +1,25 @@
+{
+  "search.exclude": {
+    "node_modules": true,
+    "nodemon.json": true,
+    "*.log": true,
+    "*.lock": true
+  },
+  "files.exclude": {
+    "node_modules": true,
+    "nodemon.json": true,
+    "*.log": true,
+    "*.lock": true
+  }
+} // {
+//   "search.exclude": {
+//     "node_modules": true,
+//     "*.log": true,
+//     "*.lock": true
+//   },
+//   "files.exclude": {
+//     "node_modules": true,
+//     "*.log": true,
+//     "*.lock": true
+//   }
+// }
